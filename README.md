@@ -26,8 +26,8 @@ npm install
 npm run dev
 
 # install external libraries
-npm i -D naive-ui
 npm i vue-showdown
+npm i -D naive-ui
 npm i -D @vicons/ionicons5
 npm i vue3-ace-editor
 ```
