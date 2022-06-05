@@ -35,3 +35,5 @@ npm i vue3-ace-editor
 2. Clean up Files
 - clear assets folder
 - clear components folder
+- delete routes
+- Clean up App.vue
