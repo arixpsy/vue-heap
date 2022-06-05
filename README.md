@@ -37,3 +37,9 @@ npm i vue3-ace-editor
 - clear components folder
 - delete routes
 - Clean up App.vue
+
+3. Create Views and update Router File
+- ArticleView
+- HomeView
+- NewArticleView
+- Update router/index.js
