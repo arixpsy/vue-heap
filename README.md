@@ -43,3 +43,14 @@ npm i vue3-ace-editor
 - HomeView
 - NewArticleView
 - Update router/index.js
+
+4. New Article View
+- Creating Utils Functions
+- Using Component Library
+- Vue Ref
+
+5. Home View
+- Creating Small Components
+- Vue onMounted, defineEmits, defineProps
+
+6. Article View
