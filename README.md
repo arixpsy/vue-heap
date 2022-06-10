@@ -7,6 +7,26 @@
 3. Process from code to website
 4. Creating a Markdown Blog Editor
 
+#### What is Vue
+https://vuejs.org/guide/introduction.html#what-is-vue
+
+#### Why do we use a frontend framework
+- Reliable
+- Faster Development
+- Consistent?
+- How do I choose between frameworks?
+
+#### Process from code to website
+- Node Project
+  - package.json
+  - node_modules
+- Build Step
+  - https://vitejs.dev/guide/why.html
+  - https://webpack.js.org/
+- Single Page Application
+  - https://vue-heap.netlify.app/
+- Vue Project Structure
+
 ### Coding Portion
 1. Creating a Vue Project with NPM
 https://vuejs.org/guide/quick-start.html#with-build-tools
@@ -31,6 +51,8 @@ npm i -D naive-ui
 npm i -D @vicons/ionicons5
 npm i vue3-ace-editor
 ```
+
+https://vue-showdown.js.org/guide/
 
 2. Clean up Files
 - clear assets folder
